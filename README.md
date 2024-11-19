@@ -1,4 +1,6 @@
 # XXLAZARUS - Belajar Lazarus
+![image](https://github.com/user-attachments/assets/4238054e-4350-4fe6-8e29-a9ba5072d03c)
+
 ## Source
 * [Petani Kode](https://www.petanikode.com/lazarus-percabangan/) - Menggunakan Percabangan pada Program Lazarus
 
